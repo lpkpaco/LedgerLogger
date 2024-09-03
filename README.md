@@ -1,6 +1,6 @@
 # LedgerLogger
 A ledger logging tool based on **Python**.
-Stores data in _json_ format, able to export data to _txt_ format.
+Stores data in _json_ format, able to export data in _txt_ format.
 Requires the **datatime** module and the **json** module. They should be installed with your default Python installations.
 
 3-9-2024

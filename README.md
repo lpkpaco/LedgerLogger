@@ -13,6 +13,7 @@ Future work planned:
 1. Add GUI interface
 
 ~~2. Allow reading records in program directly~~
+
 3. Pack and release as applications, e.g. exe, apk, iOS app etc.
 4. Add historical data entry functions
 5. TBD

@@ -1,1 +1,1 @@
-Folder for previous _Python_ versions
+Folder for previous Python versions

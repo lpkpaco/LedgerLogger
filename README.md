@@ -11,9 +11,6 @@ Updated to V0.2. Allows users to read records in program directly. Fixed known b
 
 Future work planned:
 1. Add GUI interface
-
-~~2. Allow reading records in program directly~~
-
-3. Pack and release as applications, e.g. exe, apk, iOS app etc.
-4. Add historical data entry functions
-5. TBD
+2. Pack and release as applications, e.g. exe, apk, iOS app etc.
+3. Add historical data entry functions
+4. TBD
